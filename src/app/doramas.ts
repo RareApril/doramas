@@ -26,7 +26,7 @@ export const doramas: Dorama[] = [
     year: 2020,
     genre: "Thriller · Survival · Sci-Fi",
     description: "Un grupo de jóvenes es transportado a una versión alternativa de Tokio donde deben jugar peligrosos juegos para sobrevivir.",
-    video: "/AIBVID.mp4",
+    video: "https://res.cloudinary.com/dwahppn3p/video/upload/v1774846187/AIBVID_uu8kyr.mp4",
     poster: "/AIB.png",
     reviews: [
       { icon: "/ico1.png", reviewerName: "Jhosabeth", rate: 4, final: 5 },
@@ -43,7 +43,7 @@ export const doramas: Dorama[] = [
     year: 2025,
     genre: "Romance · Historical · Comedy",
     description: "Un rey que solo come comida sencilla conoce a una cocinera plebeya con un talento extraordinario. Entre platos y secretos palaciegos, ambos descubren que el camino al corazón pasa por la cocina.",
-    video: "/bonVID.MP4",
+    video: "https://res.cloudinary.com/dwahppn3p/video/upload/v1774846215/bonVID_dmrwiv.mp4",
     poster: "/BAYM.png",
     reviews: [
       { icon: "/ico1.png", reviewerName: "Jhosabeth", rate: 5, final: 5 },
@@ -60,7 +60,7 @@ export const doramas: Dorama[] = [
     year: 2023,
     genre: "Drama · Family · Emotional",
     description: "Una madre que sacrificó todo por su hijo lo ve convertirse en un fiscal corrupto. Cuando él pierde la memoria en un accidente, ella tiene una segunda oportunidad para ser la madre que nunca fue.",
-    video: "/BMadreVid.mp4",
+    video: "https://res.cloudinary.com/dwahppn3p/video/upload/v1774846254/BMadreVid_gdk9em.mp4",
     poster: "/BMM.png",
     reviews: [
       { icon: "/ico1.png", reviewerName: "Jhosabeth", rate: 5, final: 5 },
@@ -77,7 +77,7 @@ export const doramas: Dorama[] = [
     year: 2021,
     genre: "Romance · Comedy · Music",
     description: "Dos personas con personalidades completamente opuestas se ven obligadas a trabajar juntas en una competición de baile. Lo que comienza como una rivalidad se convierte poco a poco en un ritmo que ninguno de los dos esperaba.",
-    video: "/ChachaVid.mp4",
+    video: "https://res.cloudinary.com/dwahppn3p/video/upload/v1774846219/ChachaVid_flw29z.mp4",
     poster: "/chacha.png",
     reviews: [
       { icon: "/ico1.png", reviewerName: "Jhosabeth", rate: 4, final: 4 },
@@ -94,7 +94,7 @@ export const doramas: Dorama[] = [
     year: 2024,
     genre: "Romance · Drama · Bittersweet",
     description: "Un hombre con una enfermedad terminal y una mujer que huye de su propia boda se encuentran por casualidad. Juntos, la vida los arrastra como el plancton: pequeños, frágiles y llevados por la corriente.",
-    video: "/PlanktonVid.mp4",
+    video: "https://res.cloudinary.com/dwahppn3p/video/upload/v1774846216/PlanktonVid_eaychc.mp4",
     poster: "/plankton.png",
     reviews: [
       { icon: "/ico1.png", reviewerName: "Jhosabeth", rate: 5, final: 5 },
@@ -111,7 +111,7 @@ export const doramas: Dorama[] = [
     year: 2024,
     genre: "Romance · Drama · Melodrama",
     description: "La heredera de un conglomerado empresarial y su marido han dejado de amarse tras tres años de matrimonio. Cuando a ella le diagnostican una enfermedad terminal, deben redescubrir lo que significaban el uno para el otro antes de que sea demasiado tarde.",
-    video: "/QOTVID.mp4",
+    video: "https://res.cloudinary.com/dwahppn3p/video/upload/v1774846219/QOTVID_bfkacg.mp4",
     poster: "/QOT.png",
     reviews: [
       { icon: "/ico1.png", reviewerName: "Jhosabeth", rate: 5, final: 5 },
