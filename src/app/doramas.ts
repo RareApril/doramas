@@ -80,8 +80,8 @@ export const doramas: Dorama[] = [
     video: "https://res.cloudinary.com/dwahppn3p/video/upload/v1774846219/ChachaVid_flw29z.mp4",
     poster: "/chacha.png",
     reviews: [
-      { icon: "/ico1.png", reviewerName: "Jhosabeth", rate: 4, final: 4 },
-      { icon: "/ico2.png", reviewerName: "Sebastian", rate: 3, final: 4 },
+      { icon: "/ico1.png", reviewerName: "Jhosabeth", rate: 5, final: 4 },
+      { icon: "/ico2.png", reviewerName: "Sebastian", rate: 5, final: 4 },
     ],
     spotifyTracks: [
       "https://open.spotify.com/embed/track/4Xz6vXBjA79DA0lgPm9Mfl?utm_source=generator",
@@ -97,8 +97,8 @@ export const doramas: Dorama[] = [
     video: "https://res.cloudinary.com/dwahppn3p/video/upload/v1774846216/PlanktonVid_eaychc.mp4",
     poster: "/plankton.png",
     reviews: [
-      { icon: "/ico1.png", reviewerName: "Jhosabeth", rate: 5, final: 5 },
-      { icon: "/ico2.png", reviewerName: "Sebastian", rate: 5, final: 5 },
+      { icon: "/ico1.png", reviewerName: "Jhosabeth", rate: 4, final: 4 },
+      { icon: "/ico2.png", reviewerName: "Sebastian", rate: 3, final: 4 },
     ],
     spotifyTracks: [
       "https://open.spotify.com/embed/track/09K785cBEzPp4sGYqGyrpI?utm_source=generator",
@@ -114,7 +114,7 @@ export const doramas: Dorama[] = [
     video: "https://res.cloudinary.com/dwahppn3p/video/upload/v1774846219/QOTVID_bfkacg.mp4",
     poster: "/QOT.png",
     reviews: [
-      { icon: "/ico1.png", reviewerName: "Jhosabeth", rate: 5, final: 5 },
+      { icon: "/ico1.png", reviewerName: "Jhosabeth", rate: 4, final: 5 },
       { icon: "/ico2.png", reviewerName: "Sebastian", rate: 5, final: 5 },
     ],
     spotifyTracks: [
